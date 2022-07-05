@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Space Quiz</string>
+    <string name="check_your_knowledge">Проверь свои знания астрономии</string>
+    <string name="sun">Солнце</string>
+    <string name="mercury">Меркурий</string>
+    <string name="venus">Венера</string>
+    <string name="earth">Земля</string>
+    <string name="mars">Марс</string>
+    <string name="jupiter">Юпитер</string>
+    <string name="saturn">Сатурн</string>
+    <string name="uranus">Уран</string>
+    <string name="neptune">Нептун</string>
+    <string name="small_bodies">Кометы и астероиды</string>
+    <string name="stars">Звезды</string>
+    <string name="galaxies">Галактики</string>
+</resources>

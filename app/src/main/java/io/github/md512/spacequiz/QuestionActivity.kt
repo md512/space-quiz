@@ -1,4 +1,4 @@
-package io.github.md512.spacequiz.ui
+package io.github.md512.spacequiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

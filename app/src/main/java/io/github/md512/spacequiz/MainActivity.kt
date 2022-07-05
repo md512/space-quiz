@@ -1,16 +1,13 @@
-package io.github.md512.spacequiz.ui
+package io.github.md512.spacequiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.github.md512.spacequiz.R
 import io.github.md512.spacequiz.adapters.QuizRecyclerAdapter
 
 class MainActivity : AppCompatActivity() {
-
-    //private val quizViewModel by lazy { ViewModelProvider(this).get(QuizViewModel::class.java) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
